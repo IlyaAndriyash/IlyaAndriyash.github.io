@@ -47,6 +47,9 @@ img{
 .slider__item{
     text-align: center;
 }
+.slick-dots li button:before {
+    font-size: 20px;
+}
 /* .slick-dots li {
     margin: 0 5px;
 }
