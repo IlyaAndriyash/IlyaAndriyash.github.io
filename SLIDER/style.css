@@ -50,11 +50,11 @@ img{
 .slick-dots li button:before {
     font-size: 20px;
 }
-/* .slick-dots li {
+ .slick-dots li {
     margin: 0 5px;
 }
 @media (min-width: 577){
     .slick-dots li {
         margin: 0 3px;
     }
-} */
+} 
